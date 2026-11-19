@@ -1,0 +1,6 @@
+{
+  "name": "Oxygen Gym - Build Muscle and Get Stronger",
+  "description": "Oxygen Gym - Transform your fitness with personal training, muscle growth workouts, and strength conditioning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
